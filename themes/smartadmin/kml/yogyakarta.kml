@@ -1,0 +1,5169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Peta Kelurahan Kota Yogyakarta</name>
+  <description><![CDATA[Peta ini digunakan sebagai batasan wilayah penelitian dalam pembuatan situs : www.museum.iariadi.web.id.
+kode warna yang serupa menunjukan wilayah kecamatan yang sama. Wilayah administrasi terkecil adalah kelurahan.
+Cartographer : Irman Ariadi ]]></description>
+  <Style id="style32">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F30114C</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style25">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F30114C</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style21">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F30114C</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style24">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F30114C</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style13">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F000099</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style5">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F000099</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style39">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F000099</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style1">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F4D1220</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style14">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F4D1220</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style43">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F4D1220</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style36">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F4D1220</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style15">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F4D1220</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style20">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F633707</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style17">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F633707</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style27">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F065FB4</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style11">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F065FB4</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style30">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F065FB4</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style33">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F3D340C</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style35">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F3D340C</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style2">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F3D340C</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style16">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F0090BF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style6">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F0090BF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style28">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F5C4F13</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style45">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F5C4F13</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style31">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F00607F</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style23">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F00607F</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style19">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F043F78</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style34">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F043F78</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style7">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F043F78</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style10">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F043F78</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style22">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F043F78</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style26">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F043F78</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style4">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F043F78</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style38">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F134E27</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style29">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F134E27</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style9">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F134E27</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style8">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F94530B</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style3">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F94530B</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style40">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F94530B</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style37">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F1D7638</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style41">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F1D7638</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style42">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F1D7638</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style44">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F751C35</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style12">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F751C35</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Style id="style18">
+    <LabelStyle>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>FF666666</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7F751C35</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+    <BalloonStyle>
+      <text><![CDATA[$[description]]]></text>
+    </BalloonStyle>
+  </Style>
+  <Placemark>
+    <name>Karang Waru</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Tegalrejo Kelurahan: Karangwaru Jenis Museum: </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Tegalrejo<br>
+<b>Kelurahan:</b> Karangwaru<br><br>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Tegalrejo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347101</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Karangwaru</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>101</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.361557,-7.769655,0.000000
+            110.361015,-7.779450,0.000000
+            110.362473,-7.779524,0.000000
+            110.362755,-7.779760,0.000000
+            110.363205,-7.779860,0.000000
+            110.363396,-7.779508,0.000000
+            110.363564,-7.779110,0.000000
+            110.364632,-7.779790,0.000000
+            110.364967,-7.779736,0.000000
+            110.365097,-7.778805,0.000000
+            110.365326,-7.777077,0.000000
+            110.365257,-7.776743,0.000000
+            110.365494,-7.775133,0.000000
+            110.366348,-7.775161,0.000000
+            110.366592,-7.773805,0.000000
+            110.367287,-7.773698,0.000000
+            110.367363,-7.773291,0.000000
+            110.367523,-7.772920,0.000000
+            110.367638,-7.772522,0.000000
+            110.369415,-7.772697,0.000000
+            110.369392,-7.772127,0.000000
+            110.369400,-7.771792,0.000000
+            110.369270,-7.771412,0.000000
+            110.368980,-7.771050,0.000000
+            110.368713,-7.770832,0.000000
+            110.368675,-7.770063,0.000000
+            110.368034,-7.769646,0.000000
+            110.367729,-7.771066,0.000000
+            110.366776,-7.771019,0.000000
+            110.366455,-7.770666,0.000000
+            110.366554,-7.770169,0.000000
+            110.366638,-7.769690,0.000000
+            110.366379,-7.769445,0.000000
+            110.366005,-7.769408,0.000000
+            110.365242,-7.769208,0.000000
+            110.365364,-7.768693,0.000000
+            110.364944,-7.768430,0.000000
+            110.364548,-7.768429,0.000000
+            110.364136,-7.768148,0.000000
+            110.363953,-7.767840,0.000000
+            110.363625,-7.767885,0.000000
+            110.363075,-7.767920,0.000000
+            110.362518,-7.767793,0.000000
+            110.362236,-7.768010,0.000000
+            110.362137,-7.768552,0.000000
+            110.361877,-7.768832,0.000000
+            110.361565,-7.769085,0.000000
+            110.361557,-7.769655,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Kricak</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Tegalrejo Kelurahan: Kricak Jenis Museum:  Sta</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Tegalrejo<br>
+<b>Kelurahan:</b> Kricak<br><br>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Tegalrejo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347101</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Kricak</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>102</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.352478,-7.766095,0.000000
+            110.352829,-7.766566,0.000000
+            110.353127,-7.766938,0.000000
+            110.352898,-7.767679,0.000000
+            110.352852,-7.768167,0.000000
+            110.353050,-7.768584,0.000000
+            110.353333,-7.769109,0.000000
+            110.353424,-7.769588,0.000000
+            110.353485,-7.770131,0.000000
+            110.353683,-7.770683,0.000000
+            110.353798,-7.771054,0.000000
+            110.353577,-7.771443,0.000000
+            110.353050,-7.771731,0.000000
+            110.352615,-7.771658,0.000000
+            110.352592,-7.772029,0.000000
+            110.353439,-7.773423,0.000000
+            110.353737,-7.773605,0.000000
+            110.354095,-7.773388,0.000000
+            110.354271,-7.773045,0.000000
+            110.354530,-7.772801,0.000000
+            110.354897,-7.772946,0.000000
+            110.355003,-7.773362,0.000000
+            110.354996,-7.773688,0.000000
+            110.354980,-7.774032,0.000000
+            110.354927,-7.774393,0.000000
+            110.354691,-7.774674,0.000000
+            110.354378,-7.775026,0.000000
+            110.354156,-7.775360,0.000000
+            110.354004,-7.775767,0.000000
+            110.354088,-7.776093,0.000000
+            110.354301,-7.776419,0.000000
+            110.354668,-7.776528,0.000000
+            110.355057,-7.776574,0.000000
+            110.355423,-7.776583,0.000000
+            110.355751,-7.776593,0.000000
+            110.356041,-7.776394,0.000000
+            110.356171,-7.775680,0.000000
+            110.356361,-7.775183,0.000000
+            110.356590,-7.774939,0.000000
+            110.357574,-7.775528,0.000000
+            110.357735,-7.775890,0.000000
+            110.357567,-7.776586,0.000000
+            110.357536,-7.776921,0.000000
+            110.357574,-7.777410,0.000000
+            110.357574,-7.777807,0.000000
+            110.356194,-7.779253,0.000000
+            110.356094,-7.779569,0.000000
+            110.357132,-7.779887,0.000000
+            110.357620,-7.780132,0.000000
+            110.358124,-7.780323,0.000000
+            110.358475,-7.780124,0.000000
+            110.358917,-7.780007,0.000000
+            110.359169,-7.779809,0.000000
+            110.359383,-7.779366,0.000000
+            110.361015,-7.779450,0.000000
+            110.361557,-7.769655,0.000000
+            110.360855,-7.769988,0.000000
+            110.360786,-7.770495,0.000000
+            110.360306,-7.770675,0.000000
+            110.359932,-7.770647,0.000000
+            110.358673,-7.770727,0.000000
+            110.357422,-7.769712,0.000000
+            110.353416,-7.766441,0.000000
+            110.353065,-7.766250,0.000000
+            110.352478,-7.766095,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Bener</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Tegalrejo Kelurahan: Bener Jenis Museum:  Stat</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Tegalrejo<br>
+<b>Kelurahan:</b> Bener<br><br>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Tegalrejo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347101</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Bener</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>103</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.351700,-7.768102,0.000000
+            110.351357,-7.768608,0.000000
+            110.351418,-7.769413,0.000000
+            110.351402,-7.769875,0.000000
+            110.351456,-7.770255,0.000000
+            110.351547,-7.770580,0.000000
+            110.351562,-7.770960,0.000000
+            110.351433,-7.771684,0.000000
+            110.351387,-7.772272,0.000000
+            110.351379,-7.772850,0.000000
+            110.351341,-7.773529,0.000000
+            110.351334,-7.774044,0.000000
+            110.351303,-7.774487,0.000000
+            110.351242,-7.775003,0.000000
+            110.351318,-7.775510,0.000000
+            110.351128,-7.776133,0.000000
+            110.351158,-7.776631,0.000000
+            110.351189,-7.777327,0.000000
+            110.351196,-7.778277,0.000000
+            110.351212,-7.779498,0.000000
+            110.351120,-7.780177,0.000000
+            110.351028,-7.780565,0.000000
+            110.356476,-7.781894,0.000000
+            110.357277,-7.781859,0.000000
+            110.357407,-7.781543,0.000000
+            110.357597,-7.781163,0.000000
+            110.357803,-7.780910,0.000000
+            110.358124,-7.780323,0.000000
+            110.357620,-7.780132,0.000000
+            110.357132,-7.779887,0.000000
+            110.356094,-7.779569,0.000000
+            110.356194,-7.779253,0.000000
+            110.357574,-7.777807,0.000000
+            110.357574,-7.777410,0.000000
+            110.357536,-7.776921,0.000000
+            110.357567,-7.776586,0.000000
+            110.357735,-7.775890,0.000000
+            110.357574,-7.775528,0.000000
+            110.356590,-7.774939,0.000000
+            110.356361,-7.775183,0.000000
+            110.356171,-7.775680,0.000000
+            110.356041,-7.776394,0.000000
+            110.355751,-7.776593,0.000000
+            110.355423,-7.776583,0.000000
+            110.355057,-7.776574,0.000000
+            110.354668,-7.776528,0.000000
+            110.354301,-7.776419,0.000000
+            110.354088,-7.776093,0.000000
+            110.354004,-7.775767,0.000000
+            110.354156,-7.775360,0.000000
+            110.354378,-7.775026,0.000000
+            110.354691,-7.774674,0.000000
+            110.354927,-7.774393,0.000000
+            110.354980,-7.774032,0.000000
+            110.354996,-7.773688,0.000000
+            110.355003,-7.773362,0.000000
+            110.354897,-7.772946,0.000000
+            110.354530,-7.772801,0.000000
+            110.354271,-7.773045,0.000000
+            110.354095,-7.773388,0.000000
+            110.353737,-7.773605,0.000000
+            110.353439,-7.773423,0.000000
+            110.352592,-7.772029,0.000000
+            110.352615,-7.771658,0.000000
+            110.352386,-7.771314,0.000000
+            110.352287,-7.770853,0.000000
+            110.352226,-7.770446,0.000000
+            110.352097,-7.770020,0.000000
+            110.351990,-7.769658,0.000000
+            110.351845,-7.769269,0.000000
+            110.351875,-7.768917,0.000000
+            110.351830,-7.768564,0.000000
+            110.351700,-7.768102,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Tegalrejo</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Tegalrejo Kelurahan: Tegalrejo Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Tegalrejo<br>
+<b>Kelurahan:</b> Tegalrejo<br><br>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Tegalrejo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347101</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Tegalrejo</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>104</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.351028,-7.780565,0.000000
+            110.350746,-7.781777,0.000000
+            110.350769,-7.782247,0.000000
+            110.350739,-7.782600,0.000000
+            110.350578,-7.783540,0.000000
+            110.350533,-7.784146,0.000000
+            110.350410,-7.784734,0.000000
+            110.350372,-7.785177,0.000000
+            110.350304,-7.785738,0.000000
+            110.350227,-7.786253,0.000000
+            110.350166,-7.786877,0.000000
+            110.350128,-7.787303,0.000000
+            110.350105,-7.787863,0.000000
+            110.350128,-7.788370,0.000000
+            110.350044,-7.788885,0.000000
+            110.349731,-7.789681,0.000000
+            110.349457,-7.790105,0.000000
+            110.349304,-7.790512,0.000000
+            110.349213,-7.790874,0.000000
+            110.349136,-7.791190,0.000000
+            110.349098,-7.791760,0.000000
+            110.349106,-7.792366,0.000000
+            110.350021,-7.792530,0.000000
+            110.350449,-7.791590,0.000000
+            110.353523,-7.792129,0.000000
+            110.353554,-7.792518,0.000000
+            110.354538,-7.792673,0.000000
+            110.355736,-7.792838,0.000000
+            110.356018,-7.792503,0.000000
+            110.355904,-7.792205,0.000000
+            110.355698,-7.791589,0.000000
+            110.355759,-7.791237,0.000000
+            110.355927,-7.790948,0.000000
+            110.356148,-7.790713,0.000000
+            110.356422,-7.790532,0.000000
+            110.356773,-7.790334,0.000000
+            110.357147,-7.790027,0.000000
+            110.357300,-7.789683,0.000000
+            110.357109,-7.789321,0.000000
+            110.356476,-7.789094,0.000000
+            110.356079,-7.788967,0.000000
+            110.355598,-7.788921,0.000000
+            110.355270,-7.788758,0.000000
+            110.355438,-7.788306,0.000000
+            110.355522,-7.787853,0.000000
+            110.355476,-7.787474,0.000000
+            110.355347,-7.787139,0.000000
+            110.355385,-7.786714,0.000000
+            110.355446,-7.786379,0.000000
+            110.355362,-7.785972,0.000000
+            110.355286,-7.785637,0.000000
+            110.355232,-7.785284,0.000000
+            110.355301,-7.784841,0.000000
+            110.355553,-7.784380,0.000000
+            110.355881,-7.784073,0.000000
+            110.356133,-7.783866,0.000000
+            110.356514,-7.783423,0.000000
+            110.356888,-7.783116,0.000000
+            110.357079,-7.782754,0.000000
+            110.357277,-7.781859,0.000000
+            110.356476,-7.781894,0.000000
+            110.351028,-7.780565,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Cokrodiningratan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Jetis Kelurahan: Cokrodiningratan Jenis Museum</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Jetis<br>
+<b>Kelurahan:</b> Cokrodiningratan<br><br>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Jetis</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347102</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Cokrodiningratan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>201</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.369415,-7.772697,0.000000
+            110.367638,-7.772522,0.000000
+            110.367523,-7.772920,0.000000
+            110.367363,-7.773291,0.000000
+            110.367287,-7.773698,0.000000
+            110.366592,-7.773805,0.000000
+            110.366348,-7.775161,0.000000
+            110.365494,-7.775133,0.000000
+            110.365257,-7.776743,0.000000
+            110.365326,-7.777077,0.000000
+            110.365097,-7.778805,0.000000
+            110.364967,-7.779736,0.000000
+            110.364632,-7.779790,0.000000
+            110.363564,-7.779110,0.000000
+            110.363396,-7.779508,0.000000
+            110.363205,-7.779860,0.000000
+            110.362755,-7.779760,0.000000
+            110.362473,-7.779524,0.000000
+            110.361015,-7.779450,0.000000
+            110.360931,-7.781476,0.000000
+            110.367142,-7.781567,0.000000
+            110.367157,-7.782272,0.000000
+            110.371162,-7.782305,0.000000
+            110.371346,-7.781889,0.000000
+            110.371590,-7.781392,0.000000
+            110.371437,-7.780967,0.000000
+            110.370918,-7.780713,0.000000
+            110.370537,-7.780540,0.000000
+            110.370224,-7.780314,0.000000
+            110.370155,-7.779997,0.000000
+            110.370201,-7.779681,0.000000
+            110.370407,-7.779057,0.000000
+            110.370483,-7.778695,0.000000
+            110.370499,-7.778288,0.000000
+            110.370651,-7.777945,0.000000
+            110.371193,-7.777484,0.000000
+            110.371414,-7.777005,0.000000
+            110.371292,-7.776462,0.000000
+            110.371017,-7.776145,0.000000
+            110.370796,-7.775828,0.000000
+            110.370453,-7.775547,0.000000
+            110.370186,-7.775212,0.000000
+            110.370102,-7.774579,0.000000
+            110.369583,-7.773728,0.000000
+            110.369453,-7.773258,0.000000
+            110.369415,-7.772697,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Bumijo</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Jetis Kelurahan: Bumijo Jenis Museum:  Status </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Jetis<br>
+<b>Kelurahan:</b> Bumijo<br>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Jetis</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347102</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Bumijo</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>202</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.358124,-7.780323,0.000000
+            110.357803,-7.780910,0.000000
+            110.357597,-7.781163,0.000000
+            110.357407,-7.781543,0.000000
+            110.357277,-7.781859,0.000000
+            110.357079,-7.782754,0.000000
+            110.356888,-7.783116,0.000000
+            110.356514,-7.783423,0.000000
+            110.356133,-7.783866,0.000000
+            110.355881,-7.784073,0.000000
+            110.355553,-7.784380,0.000000
+            110.355301,-7.784841,0.000000
+            110.355232,-7.785284,0.000000
+            110.355286,-7.785637,0.000000
+            110.355362,-7.785972,0.000000
+            110.355446,-7.786379,0.000000
+            110.355385,-7.786714,0.000000
+            110.355347,-7.787139,0.000000
+            110.355476,-7.787474,0.000000
+            110.355522,-7.787853,0.000000
+            110.358925,-7.788130,0.000000
+            110.359077,-7.787841,0.000000
+            110.359016,-7.787416,0.000000
+            110.359116,-7.787054,0.000000
+            110.360214,-7.787300,0.000000
+            110.361969,-7.787682,0.000000
+            110.362534,-7.787728,0.000000
+            110.362793,-7.786580,0.000000
+            110.363518,-7.782330,0.000000
+            110.360886,-7.782236,0.000000
+            110.360931,-7.781476,0.000000
+            110.361015,-7.779450,0.000000
+            110.359383,-7.779366,0.000000
+            110.359169,-7.779809,0.000000
+            110.358917,-7.780007,0.000000
+            110.358475,-7.780124,0.000000
+            110.358124,-7.780323,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Gowongan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Jetis Kelurahan: Gowongan Jenis Museum:  Statu</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Jetis<br>
+<b>Kelurahan:</b> Gowongan<br>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Jetis</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347102</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Gowongan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>203</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.360931,-7.781476,0.000000
+            110.360886,-7.782236,0.000000
+            110.363518,-7.782330,0.000000
+            110.362793,-7.786580,0.000000
+            110.366486,-7.787074,0.000000
+            110.366257,-7.789100,0.000000
+            110.368904,-7.789420,0.000000
+            110.368912,-7.788860,0.000000
+            110.368767,-7.788380,0.000000
+            110.368515,-7.787900,0.000000
+            110.368324,-7.787547,0.000000
+            110.368240,-7.787230,0.000000
+            110.368134,-7.786914,0.000000
+            110.368134,-7.786507,0.000000
+            110.368301,-7.786000,0.000000
+            110.368454,-7.785693,0.000000
+            110.368706,-7.785341,0.000000
+            110.368973,-7.784970,0.000000
+            110.369270,-7.784600,0.000000
+            110.369705,-7.784320,0.000000
+            110.370010,-7.784149,0.000000
+            110.370407,-7.783878,0.000000
+            110.370743,-7.783598,0.000000
+            110.370934,-7.783182,0.000000
+            110.371002,-7.782821,0.000000
+            110.371162,-7.782305,0.000000
+            110.367157,-7.782272,0.000000
+            110.367142,-7.781567,0.000000
+            110.360931,-7.781476,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Terban</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Gondokusuman Kelurahan: Terban Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Gondokusuman<br>
+<b>Kelurahan:</b> Terban<br>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Gondokusuman</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347103</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Terban</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>301</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.370102,-7.774579,0.000000
+            110.370186,-7.775212,0.000000
+            110.370453,-7.775547,0.000000
+            110.370796,-7.775828,0.000000
+            110.371017,-7.776145,0.000000
+            110.371292,-7.776462,0.000000
+            110.371414,-7.777005,0.000000
+            110.371193,-7.777484,0.000000
+            110.370651,-7.777945,0.000000
+            110.370499,-7.778288,0.000000
+            110.370483,-7.778695,0.000000
+            110.370407,-7.779057,0.000000
+            110.370201,-7.779681,0.000000
+            110.370155,-7.779997,0.000000
+            110.370224,-7.780314,0.000000
+            110.370537,-7.780540,0.000000
+            110.370918,-7.780713,0.000000
+            110.371437,-7.780967,0.000000
+            110.371590,-7.781392,0.000000
+            110.371346,-7.781889,0.000000
+            110.371162,-7.782305,0.000000
+            110.379318,-7.782380,0.000000
+            110.381027,-7.782383,0.000000
+            110.381165,-7.781877,0.000000
+            110.381142,-7.781497,0.000000
+            110.381073,-7.781081,0.000000
+            110.381042,-7.780628,0.000000
+            110.381104,-7.780267,0.000000
+            110.381126,-7.779860,0.000000
+            110.380806,-7.779488,0.000000
+            110.380440,-7.779271,0.000000
+            110.379669,-7.777325,0.000000
+            110.379227,-7.777397,0.000000
+            110.377380,-7.776010,0.000000
+            110.375977,-7.775809,0.000000
+            110.375725,-7.775510,0.000000
+            110.375488,-7.774352,0.000000
+            110.375298,-7.774080,0.000000
+            110.372635,-7.774999,0.000000
+            110.370102,-7.774579,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Kotabaru</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Gondokusuman Kelurahan: Kotabaru Jenis Museum:</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Gondokusuman<br>
+<b>Kelurahan:</b> Kotabaru<br>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Gondokusuman</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347103</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Kotabaru</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>302</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.371162,-7.782305,0.000000
+            110.371002,-7.782821,0.000000
+            110.370934,-7.783182,0.000000
+            110.370743,-7.783598,0.000000
+            110.370407,-7.783878,0.000000
+            110.370010,-7.784149,0.000000
+            110.369705,-7.784320,0.000000
+            110.369270,-7.784600,0.000000
+            110.368973,-7.784970,0.000000
+            110.368706,-7.785341,0.000000
+            110.368454,-7.785693,0.000000
+            110.368301,-7.786000,0.000000
+            110.368134,-7.786507,0.000000
+            110.368134,-7.786914,0.000000
+            110.368240,-7.787230,0.000000
+            110.368324,-7.787547,0.000000
+            110.368515,-7.787900,0.000000
+            110.368767,-7.788380,0.000000
+            110.368912,-7.788860,0.000000
+            110.368904,-7.789420,0.000000
+            110.369247,-7.789303,0.000000
+            110.370102,-7.789033,0.000000
+            110.371025,-7.788799,0.000000
+            110.371391,-7.788782,0.000000
+            110.372040,-7.788719,0.000000
+            110.372398,-7.788711,0.000000
+            110.374054,-7.788424,0.000000
+            110.374420,-7.788370,0.000000
+            110.374771,-7.788326,0.000000
+            110.376190,-7.788138,0.000000
+            110.376610,-7.788084,0.000000
+            110.377007,-7.787940,0.000000
+            110.378494,-7.787472,0.000000
+            110.379318,-7.782380,0.000000
+            110.371162,-7.782305,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Klitren</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Gondokusuman Kelurahan: Klitren Jenis Museum: </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Gondokusuman<br>
+<b>Kelurahan:</b> Klitren<br>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Gondokusuman</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347103</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Klitren</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>303</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.380806,-7.779488,0.000000
+            110.381126,-7.779860,0.000000
+            110.381104,-7.780267,0.000000
+            110.381042,-7.780628,0.000000
+            110.381073,-7.781081,0.000000
+            110.381142,-7.781497,0.000000
+            110.381165,-7.781877,0.000000
+            110.381027,-7.782383,0.000000
+            110.379318,-7.782380,0.000000
+            110.378494,-7.787472,0.000000
+            110.378181,-7.789398,0.000000
+            110.378616,-7.789389,0.000000
+            110.378990,-7.789390,0.000000
+            110.379509,-7.789382,0.000000
+            110.379860,-7.789219,0.000000
+            110.380157,-7.789075,0.000000
+            110.380554,-7.789040,0.000000
+            110.380974,-7.789013,0.000000
+            110.380981,-7.788597,0.000000
+            110.380859,-7.788190,0.000000
+            110.380859,-7.787810,0.000000
+            110.381203,-7.787638,0.000000
+            110.381393,-7.787349,0.000000
+            110.381393,-7.786933,0.000000
+            110.381622,-7.786617,0.000000
+            110.381927,-7.786527,0.000000
+            110.382141,-7.786283,0.000000
+            110.382263,-7.785713,0.000000
+            110.382538,-7.785524,0.000000
+            110.386902,-7.785702,0.000000
+            110.387230,-7.785603,0.000000
+            110.387733,-7.785305,0.000000
+            110.388062,-7.785071,0.000000
+            110.388298,-7.784691,0.000000
+            110.388062,-7.784419,0.000000
+            110.388145,-7.783786,0.000000
+            110.388107,-7.783443,0.000000
+            110.388092,-7.782836,0.000000
+            110.388084,-7.782357,0.000000
+            110.388542,-7.779581,0.000000
+            110.380806,-7.779488,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Demangan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Gondokusuman Kelurahan: Demangan Jenis Museum:</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Gondokusuman<br>
+<b>Kelurahan:</b> Demangan<br>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Gondokusuman</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347103</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Demangan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>304</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.388542,-7.779581,0.000000
+            110.388084,-7.782357,0.000000
+            110.388092,-7.782836,0.000000
+            110.388107,-7.783443,0.000000
+            110.388145,-7.783786,0.000000
+            110.388062,-7.784419,0.000000
+            110.388298,-7.784691,0.000000
+            110.388062,-7.785071,0.000000
+            110.387733,-7.785305,0.000000
+            110.387230,-7.785603,0.000000
+            110.386902,-7.785702,0.000000
+            110.382538,-7.785524,0.000000
+            110.382263,-7.785713,0.000000
+            110.382141,-7.786283,0.000000
+            110.381927,-7.786527,0.000000
+            110.381622,-7.786617,0.000000
+            110.381393,-7.786933,0.000000
+            110.381393,-7.787349,0.000000
+            110.381203,-7.787638,0.000000
+            110.380859,-7.787810,0.000000
+            110.380859,-7.788190,0.000000
+            110.380981,-7.788597,0.000000
+            110.380974,-7.789013,0.000000
+            110.383987,-7.788809,0.000000
+            110.385895,-7.788658,0.000000
+            110.387474,-7.788615,0.000000
+            110.388290,-7.788571,0.000000
+            110.392380,-7.788297,0.000000
+            110.395065,-7.787876,0.000000
+            110.395264,-7.787207,0.000000
+            110.395271,-7.786718,0.000000
+            110.393181,-7.785856,0.000000
+            110.392349,-7.783503,0.000000
+            110.390800,-7.779611,0.000000
+            110.388542,-7.779581,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Baciro</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Gondokusuman Kelurahan: Baciro Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Gondokusuman<br>
+<b>Kelurahan:</b> Baciro<br>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Gondokusuman</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347103</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Baciro</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>305</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.380974,-7.789013,0.000000
+            110.380554,-7.789040,0.000000
+            110.380157,-7.789075,0.000000
+            110.379860,-7.789219,0.000000
+            110.379509,-7.789382,0.000000
+            110.378990,-7.789390,0.000000
+            110.378616,-7.789389,0.000000
+            110.378181,-7.789398,0.000000
+            110.377922,-7.791514,0.000000
+            110.377892,-7.792174,0.000000
+            110.377731,-7.794743,0.000000
+            110.377617,-7.796778,0.000000
+            110.377655,-7.797122,0.000000
+            110.378059,-7.797412,0.000000
+            110.378426,-7.797476,0.000000
+            110.379272,-7.797621,0.000000
+            110.379669,-7.797658,0.000000
+            110.380013,-7.797686,0.000000
+            110.380577,-7.797804,0.000000
+            110.380638,-7.797379,0.000000
+            110.380699,-7.796891,0.000000
+            110.380638,-7.796520,0.000000
+            110.380539,-7.795995,0.000000
+            110.380524,-7.795543,0.000000
+            110.380684,-7.794883,0.000000
+            110.380646,-7.794539,0.000000
+            110.380463,-7.794059,0.000000
+            110.380341,-7.793743,0.000000
+            110.380524,-7.793390,0.000000
+            110.381752,-7.793690,0.000000
+            110.382492,-7.793782,0.000000
+            110.382767,-7.792959,0.000000
+            110.384933,-7.793469,0.000000
+            110.385475,-7.793587,0.000000
+            110.387131,-7.793798,0.000000
+            110.387337,-7.793093,0.000000
+            110.388451,-7.792769,0.000000
+            110.395027,-7.792199,0.000000
+            110.395256,-7.791648,0.000000
+            110.395393,-7.791259,0.000000
+            110.395477,-7.790870,0.000000
+            110.395500,-7.790409,0.000000
+            110.395470,-7.790065,0.000000
+            110.395470,-7.789739,0.000000
+            110.395309,-7.789296,0.000000
+            110.395164,-7.788880,0.000000
+            110.395103,-7.788445,0.000000
+            110.395065,-7.787876,0.000000
+            110.392380,-7.788297,0.000000
+            110.388290,-7.788571,0.000000
+            110.387474,-7.788615,0.000000
+            110.385895,-7.788658,0.000000
+            110.383987,-7.788809,0.000000
+            110.380974,-7.789013,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Pringgokusuman</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Gedongtengen Kelurahan: Pringgokusuman Jenis M</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Gedongtengen<br>
+<b>Kelurahan:</b> Pringgokusuman<br>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Gedongtengen</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347105</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Pringgokusuman</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>501</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.355522,-7.787853,0.000000
+            110.355438,-7.788306,0.000000
+            110.355270,-7.788758,0.000000
+            110.355598,-7.788921,0.000000
+            110.356079,-7.788967,0.000000
+            110.356476,-7.789094,0.000000
+            110.357109,-7.789321,0.000000
+            110.357300,-7.789683,0.000000
+            110.357147,-7.790027,0.000000
+            110.356773,-7.790334,0.000000
+            110.356422,-7.790532,0.000000
+            110.356148,-7.790713,0.000000
+            110.355927,-7.790948,0.000000
+            110.355759,-7.791237,0.000000
+            110.355698,-7.791589,0.000000
+            110.355904,-7.792205,0.000000
+            110.356018,-7.792503,0.000000
+            110.355736,-7.792838,0.000000
+            110.355614,-7.793443,0.000000
+            110.355560,-7.793796,0.000000
+            110.355453,-7.794293,0.000000
+            110.355553,-7.794637,0.000000
+            110.355675,-7.794999,0.000000
+            110.356476,-7.794946,0.000000
+            110.356857,-7.794920,0.000000
+            110.357216,-7.794993,0.000000
+            110.357544,-7.795011,0.000000
+            110.357956,-7.795030,0.000000
+            110.358398,-7.795076,0.000000
+            110.359650,-7.795222,0.000000
+            110.361954,-7.795380,0.000000
+            110.361290,-7.794691,0.000000
+            110.361244,-7.794130,0.000000
+            110.361351,-7.793262,0.000000
+            110.362045,-7.789039,0.000000
+            110.359146,-7.788872,0.000000
+            110.359077,-7.788519,0.000000
+            110.358925,-7.788130,0.000000
+            110.355522,-7.787853,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Sosromenduran</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Gedongtengen Kelurahan: Sosromenduran Jenis Mu</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Gedongtengen<br>
+<b>Kelurahan:</b> Sosromenduran<br>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Gedongtengen</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347105</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Sosromenduran</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>502</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.358925,-7.788130,0.000000
+            110.359077,-7.788519,0.000000
+            110.359146,-7.788872,0.000000
+            110.362045,-7.789039,0.000000
+            110.361351,-7.793262,0.000000
+            110.361244,-7.794130,0.000000
+            110.361290,-7.794691,0.000000
+            110.361954,-7.795380,0.000000
+            110.365540,-7.795675,0.000000
+            110.365616,-7.795014,0.000000
+            110.365814,-7.793278,0.000000
+            110.366020,-7.791569,0.000000
+            110.366112,-7.790574,0.000000
+            110.366257,-7.789100,0.000000
+            110.366486,-7.787074,0.000000
+            110.362793,-7.786580,0.000000
+            110.362534,-7.787728,0.000000
+            110.361969,-7.787682,0.000000
+            110.360214,-7.787300,0.000000
+            110.359116,-7.787054,0.000000
+            110.359016,-7.787416,0.000000
+            110.359077,-7.787841,0.000000
+            110.358925,-7.788130,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Suryatmajan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Danurejan Kelurahan: Suryatmajan Jenis Museum:</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Danurejan<br>
+<b>Kelurahan:</b> Suryatmajan<br>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Danurejan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347104</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Suryatmajan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>401</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.366257,-7.789100,0.000000
+            110.366112,-7.790574,0.000000
+            110.366020,-7.791569,0.000000
+            110.365814,-7.793278,0.000000
+            110.365616,-7.795014,0.000000
+            110.365540,-7.795675,0.000000
+            110.370201,-7.796125,0.000000
+            110.370239,-7.795663,0.000000
+            110.370247,-7.795275,0.000000
+            110.370239,-7.794940,0.000000
+            110.370193,-7.794524,0.000000
+            110.370026,-7.794035,0.000000
+            110.369804,-7.793546,0.000000
+            110.369637,-7.793229,0.000000
+            110.369392,-7.792894,0.000000
+            110.369171,-7.792659,0.000000
+            110.368866,-7.792279,0.000000
+            110.368683,-7.791754,0.000000
+            110.368637,-7.791365,0.000000
+            110.368652,-7.790876,0.000000
+            110.368652,-7.790533,0.000000
+            110.368759,-7.790026,0.000000
+            110.368904,-7.789420,0.000000
+            110.366257,-7.789100,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Tegalpanggung</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Danurejan Kelurahan: Tegalpanggung Jenis Museu</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Danurejan<br>
+<b>Kelurahan:</b> Tegalpanggung<br>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Danurejan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347104</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Tegalpanggung</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>402</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.368904,-7.789420,0.000000
+            110.368759,-7.790026,0.000000
+            110.368652,-7.790533,0.000000
+            110.368652,-7.790876,0.000000
+            110.368637,-7.791365,0.000000
+            110.368683,-7.791754,0.000000
+            110.368866,-7.792279,0.000000
+            110.369171,-7.792659,0.000000
+            110.369392,-7.792894,0.000000
+            110.369637,-7.793229,0.000000
+            110.369804,-7.793546,0.000000
+            110.370026,-7.794035,0.000000
+            110.370193,-7.794524,0.000000
+            110.370239,-7.794940,0.000000
+            110.370247,-7.795275,0.000000
+            110.370239,-7.795663,0.000000
+            110.370201,-7.796125,0.000000
+            110.372681,-7.796273,0.000000
+            110.372787,-7.794030,0.000000
+            110.373734,-7.791562,0.000000
+            110.374092,-7.790414,0.000000
+            110.374046,-7.790061,0.000000
+            110.373024,-7.789833,0.000000
+            110.373238,-7.789418,0.000000
+            110.373650,-7.789147,0.000000
+            110.373894,-7.788903,0.000000
+            110.374054,-7.788424,0.000000
+            110.372398,-7.788711,0.000000
+            110.372040,-7.788719,0.000000
+            110.371391,-7.788782,0.000000
+            110.371025,-7.788799,0.000000
+            110.370102,-7.789033,0.000000
+            110.369247,-7.789303,0.000000
+            110.368904,-7.789420,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Bausastran</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Danurejan Kelurahan: Bausastran Jenis Museum: </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Danurejan<br>
+<b>Kelurahan:</b> Bausastran<br>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Danurejan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347104</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Bausastran</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>403</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.374054,-7.788424,0.000000
+            110.373894,-7.788903,0.000000
+            110.373650,-7.789147,0.000000
+            110.373238,-7.789418,0.000000
+            110.373024,-7.789833,0.000000
+            110.374046,-7.790061,0.000000
+            110.374092,-7.790414,0.000000
+            110.373734,-7.791562,0.000000
+            110.372787,-7.794030,0.000000
+            110.372681,-7.796273,0.000000
+            110.377159,-7.796759,0.000000
+            110.377617,-7.796778,0.000000
+            110.377731,-7.794743,0.000000
+            110.377892,-7.792174,0.000000
+            110.377922,-7.791514,0.000000
+            110.378181,-7.789398,0.000000
+            110.378494,-7.787472,0.000000
+            110.377007,-7.787940,0.000000
+            110.376610,-7.788084,0.000000
+            110.376190,-7.788138,0.000000
+            110.374771,-7.788326,0.000000
+            110.374420,-7.788370,0.000000
+            110.374054,-7.788424,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Pakuncen</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Wirobrajan Kelurahan: Pakuncen Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Wirobrajan<br>
+<b>Kelurahan:</b> Pakuncen<br>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Wirobrajan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347107</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Pakuncen</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>601</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.349106,-7.792366,0.000000
+            110.348984,-7.792710,0.000000
+            110.349045,-7.793162,0.000000
+            110.349579,-7.793398,0.000000
+            110.350014,-7.793770,0.000000
+            110.349815,-7.794339,0.000000
+            110.349670,-7.794665,0.000000
+            110.349518,-7.794963,0.000000
+            110.349121,-7.794962,0.000000
+            110.348991,-7.794654,0.000000
+            110.348480,-7.794654,0.000000
+            110.348518,-7.795097,0.000000
+            110.348572,-7.795549,0.000000
+            110.348183,-7.795847,0.000000
+            110.348267,-7.796218,0.000000
+            110.348663,-7.796472,0.000000
+            110.348457,-7.796960,0.000000
+            110.348251,-7.797394,0.000000
+            110.348145,-7.797792,0.000000
+            110.348305,-7.798100,0.000000
+            110.348595,-7.798399,0.000000
+            110.348198,-7.798968,0.000000
+            110.348389,-7.799411,0.000000
+            110.348160,-7.800026,0.000000
+            110.348007,-7.800451,0.000000
+            110.355034,-7.800588,0.000000
+            110.355194,-7.800245,0.000000
+            110.355484,-7.799513,0.000000
+            110.355598,-7.799196,0.000000
+            110.355667,-7.798798,0.000000
+            110.355690,-7.798382,0.000000
+            110.355438,-7.798020,0.000000
+            110.355217,-7.797739,0.000000
+            110.355202,-7.797332,0.000000
+            110.355331,-7.796880,0.000000
+            110.355354,-7.796491,0.000000
+            110.355431,-7.796030,0.000000
+            110.355568,-7.795451,0.000000
+            110.355675,-7.794999,0.000000
+            110.355553,-7.794637,0.000000
+            110.355453,-7.794293,0.000000
+            110.355560,-7.793796,0.000000
+            110.355614,-7.793443,0.000000
+            110.355736,-7.792838,0.000000
+            110.354538,-7.792673,0.000000
+            110.353554,-7.792518,0.000000
+            110.353523,-7.792129,0.000000
+            110.350449,-7.791590,0.000000
+            110.350021,-7.792530,0.000000
+            110.349106,-7.792366,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Wirobrajan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Wirobrajan Kelurahan: Wirobrajan Jenis Museum:</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Wirobrajan<br>
+<b>Kelurahan:</b> Wirobrajan<br>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Wirobrajan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347107</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Wirobrajan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>602</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.348007,-7.800451,0.000000
+            110.347824,-7.801165,0.000000
+            110.347733,-7.801527,0.000000
+            110.347656,-7.801861,0.000000
+            110.347191,-7.801942,0.000000
+            110.346855,-7.802059,0.000000
+            110.346603,-7.802547,0.000000
+            110.346443,-7.802954,0.000000
+            110.346313,-7.803325,0.000000
+            110.346123,-7.803822,0.000000
+            110.346054,-7.804138,0.000000
+            110.345985,-7.804482,0.000000
+            110.345749,-7.804979,0.000000
+            110.345284,-7.805801,0.000000
+            110.345016,-7.806488,0.000000
+            110.353806,-7.807768,0.000000
+            110.353989,-7.807126,0.000000
+            110.354111,-7.806719,0.000000
+            110.354301,-7.806195,0.000000
+            110.354469,-7.805870,0.000000
+            110.354713,-7.805572,0.000000
+            110.355095,-7.805554,0.000000
+            110.355453,-7.805473,0.000000
+            110.355408,-7.805157,0.000000
+            110.354324,-7.805037,0.000000
+            110.354073,-7.804747,0.000000
+            110.354012,-7.804349,0.000000
+            110.354149,-7.803925,0.000000
+            110.354530,-7.803708,0.000000
+            110.354774,-7.803491,0.000000
+            110.354492,-7.802478,0.000000
+            110.354424,-7.802125,0.000000
+            110.354568,-7.801501,0.000000
+            110.354782,-7.801140,0.000000
+            110.355034,-7.800588,0.000000
+            110.348007,-7.800451,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Patangpuluhan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Wirobrajan Kelurahan: Patangpuluhan Jenis Muse</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Wirobrajan<br>
+<b>Kelurahan:</b> Patangpuluhan<br>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Wirobrajan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347107</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Patangpuluhan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>603</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.345016,-7.806488,0.000000
+            110.344536,-7.806723,0.000000
+            110.344734,-7.807031,0.000000
+            110.345055,-7.807321,0.000000
+            110.345261,-7.807628,0.000000
+            110.345390,-7.807936,0.000000
+            110.345322,-7.808605,0.000000
+            110.345261,-7.809166,0.000000
+            110.345680,-7.809556,0.000000
+            110.345963,-7.809836,0.000000
+            110.345901,-7.810370,0.000000
+            110.345818,-7.810714,0.000000
+            110.345940,-7.811247,0.000000
+            110.345963,-7.811736,0.000000
+            110.345947,-7.812179,0.000000
+            110.351761,-7.813029,0.000000
+            110.351959,-7.812641,0.000000
+            110.352226,-7.812225,0.000000
+            110.352432,-7.811836,0.000000
+            110.352486,-7.811393,0.000000
+            110.352371,-7.810959,0.000000
+            110.352127,-7.810443,0.000000
+            110.352051,-7.809936,0.000000
+            110.352180,-7.809620,0.000000
+            110.352409,-7.809349,0.000000
+            110.353455,-7.808374,0.000000
+            110.353806,-7.807768,0.000000
+            110.345016,-7.806488,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Ngampilan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Ngampilan Kelurahan: Ngampilan Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Ngampilan<br>
+<b>Kelurahan:</b> Ngampilan<br>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Ngampilan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347106</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Ngampilan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>701</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.355675,-7.794999,0.000000
+            110.355568,-7.795451,0.000000
+            110.355431,-7.796030,0.000000
+            110.355354,-7.796491,0.000000
+            110.355331,-7.796880,0.000000
+            110.355202,-7.797332,0.000000
+            110.355217,-7.797739,0.000000
+            110.355438,-7.798020,0.000000
+            110.355690,-7.798382,0.000000
+            110.355667,-7.798798,0.000000
+            110.355598,-7.799196,0.000000
+            110.355484,-7.799513,0.000000
+            110.355194,-7.800245,0.000000
+            110.355034,-7.800588,0.000000
+            110.361214,-7.800706,0.000000
+            110.362106,-7.800698,0.000000
+            110.361954,-7.795380,0.000000
+            110.359650,-7.795222,0.000000
+            110.358398,-7.795076,0.000000
+            110.357956,-7.795030,0.000000
+            110.357544,-7.795011,0.000000
+            110.357216,-7.794993,0.000000
+            110.356857,-7.794920,0.000000
+            110.356476,-7.794946,0.000000
+            110.355675,-7.794999,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Notoprajan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Ngampilan Kelurahan: Notoprajan Jenis Museum: </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Ngampilan<br>
+<b>Kelurahan:</b> Notoprajan<br>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Ngampilan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347106</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Notoprajan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>702</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.355034,-7.800588,0.000000
+            110.354782,-7.801140,0.000000
+            110.354568,-7.801501,0.000000
+            110.354424,-7.802125,0.000000
+            110.354492,-7.802478,0.000000
+            110.354774,-7.803491,0.000000
+            110.354530,-7.803708,0.000000
+            110.354149,-7.803925,0.000000
+            110.354012,-7.804349,0.000000
+            110.354073,-7.804747,0.000000
+            110.354324,-7.805037,0.000000
+            110.355408,-7.805157,0.000000
+            110.355453,-7.805473,0.000000
+            110.355095,-7.805554,0.000000
+            110.354713,-7.805572,0.000000
+            110.354469,-7.805870,0.000000
+            110.354301,-7.806195,0.000000
+            110.354111,-7.806719,0.000000
+            110.353989,-7.807126,0.000000
+            110.353806,-7.807768,0.000000
+            110.356483,-7.808143,0.000000
+            110.356636,-7.804308,0.000000
+            110.356461,-7.803910,0.000000
+            110.360718,-7.804179,0.000000
+            110.361214,-7.800706,0.000000
+            110.355034,-7.800588,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Prawirodirjan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Gondomanan Kelurahan: Prawirodirjan Jenis Muse</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Gondomanan<br>
+<b>Kelurahan:</b> Prawirodirjan<br>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Gondomanan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347110</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Prawirodirjan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1001</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.361954,-7.795380,0.000000
+            110.362106,-7.800698,0.000000
+            110.361214,-7.800706,0.000000
+            110.360718,-7.804179,0.000000
+            110.362511,-7.804435,0.000000
+            110.363312,-7.804752,0.000000
+            110.364975,-7.804683,0.000000
+            110.365295,-7.804737,0.000000
+            110.365654,-7.804729,0.000000
+            110.365997,-7.803599,0.000000
+            110.366028,-7.802839,0.000000
+            110.365807,-7.802594,0.000000
+            110.365311,-7.802359,0.000000
+            110.364830,-7.802367,0.000000
+            110.364990,-7.800820,0.000000
+            110.371445,-7.800948,0.000000
+            110.371216,-7.800432,0.000000
+            110.371063,-7.799925,0.000000
+            110.371056,-7.799509,0.000000
+            110.370888,-7.799020,0.000000
+            110.370667,-7.798613,0.000000
+            110.370445,-7.798233,0.000000
+            110.370216,-7.797843,0.000000
+            110.370010,-7.797472,0.000000
+            110.369904,-7.797119,0.000000
+            110.369942,-7.796649,0.000000
+            110.370201,-7.796125,0.000000
+            110.365540,-7.795675,0.000000
+            110.361954,-7.795380,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Ngupasan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Gondomanan Kelurahan: Ngupasan Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Gondomanan<br>
+<b>Kelurahan:</b> Ngupasan<br>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Gondomanan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347110</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Ngupasan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1002</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.366028,-7.802839,0.000000
+            110.369301,-7.803558,0.000000
+            110.368996,-7.807710,0.000000
+            110.373817,-7.807283,0.000000
+            110.373917,-7.806831,0.000000
+            110.374008,-7.806297,0.000000
+            110.374084,-7.805881,0.000000
+            110.374168,-7.805510,0.000000
+            110.374130,-7.805094,0.000000
+            110.374092,-7.804741,0.000000
+            110.373901,-7.804207,0.000000
+            110.373550,-7.804116,0.000000
+            110.373100,-7.804043,0.000000
+            110.372711,-7.803907,0.000000
+            110.372375,-7.803735,0.000000
+            110.372086,-7.803309,0.000000
+            110.371788,-7.802395,0.000000
+            110.371666,-7.801898,0.000000
+            110.371536,-7.801391,0.000000
+            110.371445,-7.800948,0.000000
+            110.364990,-7.800820,0.000000
+            110.364830,-7.802367,0.000000
+            110.365311,-7.802359,0.000000
+            110.365807,-7.802594,0.000000
+            110.366028,-7.802839,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Purwokinanti</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Pakualaman Kelurahan: Purwokinanti Jenis Museu</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Pakualaman<br>
+<b>Kelurahan:</b> Purwokinanti<br>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Pakualaman</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347111</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Purwokinanti</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>901</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.370201,-7.796125,0.000000
+            110.369942,-7.796649,0.000000
+            110.369904,-7.797119,0.000000
+            110.370010,-7.797472,0.000000
+            110.370216,-7.797843,0.000000
+            110.370445,-7.798233,0.000000
+            110.370667,-7.798613,0.000000
+            110.370888,-7.799020,0.000000
+            110.371056,-7.799509,0.000000
+            110.371063,-7.799925,0.000000
+            110.371216,-7.800432,0.000000
+            110.371445,-7.800948,0.000000
+            110.373215,-7.801176,0.000000
+            110.373306,-7.800299,0.000000
+            110.375725,-7.800303,0.000000
+            110.375786,-7.801180,0.000000
+            110.376846,-7.801200,0.000000
+            110.376923,-7.798097,0.000000
+            110.376915,-7.797718,0.000000
+            110.377060,-7.797284,0.000000
+            110.377159,-7.796759,0.000000
+            110.372681,-7.796273,0.000000
+            110.370201,-7.796125,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Gunungketur</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Pakualaman Kelurahan: Gunungketur Jenis Museum</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Pakualaman<br>
+<b>Kelurahan:</b> Gunungketur<br>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Pakualaman</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347111</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Gunungketur</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>902</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.377159,-7.796759,0.000000
+            110.377060,-7.797284,0.000000
+            110.376915,-7.797718,0.000000
+            110.376923,-7.798097,0.000000
+            110.376846,-7.801200,0.000000
+            110.375786,-7.801180,0.000000
+            110.375725,-7.800303,0.000000
+            110.373306,-7.800299,0.000000
+            110.373215,-7.801176,0.000000
+            110.375237,-7.801243,0.000000
+            110.375595,-7.803857,0.000000
+            110.378235,-7.804123,0.000000
+            110.378967,-7.801221,0.000000
+            110.380302,-7.801322,0.000000
+            110.380760,-7.801305,0.000000
+            110.380623,-7.800979,0.000000
+            110.380669,-7.800545,0.000000
+            110.380676,-7.800210,0.000000
+            110.380692,-7.799885,0.000000
+            110.380646,-7.799496,0.000000
+            110.380630,-7.799089,0.000000
+            110.380600,-7.798555,0.000000
+            110.380585,-7.798184,0.000000
+            110.380577,-7.797804,0.000000
+            110.380013,-7.797686,0.000000
+            110.379669,-7.797658,0.000000
+            110.379272,-7.797621,0.000000
+            110.378426,-7.797476,0.000000
+            110.378059,-7.797412,0.000000
+            110.377655,-7.797122,0.000000
+            110.377617,-7.796778,0.000000
+            110.377159,-7.796759,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Semaki</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Umbulharjo Kelurahan: Semaki Jenis Museum:  St</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Umbulharjo<br>
+<b>Kelurahan:</b> Semaki<br>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Umbulharjo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347113</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Semaki</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1001</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.380577,-7.797804,0.000000
+            110.380585,-7.798184,0.000000
+            110.380600,-7.798555,0.000000
+            110.380630,-7.799089,0.000000
+            110.380646,-7.799496,0.000000
+            110.380692,-7.799885,0.000000
+            110.380676,-7.800210,0.000000
+            110.380669,-7.800545,0.000000
+            110.380623,-7.800979,0.000000
+            110.380760,-7.801305,0.000000
+            110.387329,-7.801468,0.000000
+            110.388306,-7.801524,0.000000
+            110.388306,-7.801135,0.000000
+            110.387726,-7.801080,0.000000
+            110.387917,-7.799760,0.000000
+            110.387383,-7.799696,0.000000
+            110.387970,-7.797924,0.000000
+            110.387039,-7.797651,0.000000
+            110.388451,-7.792769,0.000000
+            110.387337,-7.793093,0.000000
+            110.387131,-7.793798,0.000000
+            110.385475,-7.793587,0.000000
+            110.384933,-7.793469,0.000000
+            110.382767,-7.792959,0.000000
+            110.382492,-7.793782,0.000000
+            110.381752,-7.793690,0.000000
+            110.380524,-7.793390,0.000000
+            110.380341,-7.793743,0.000000
+            110.380463,-7.794059,0.000000
+            110.380646,-7.794539,0.000000
+            110.380684,-7.794883,0.000000
+            110.380524,-7.795543,0.000000
+            110.380539,-7.795995,0.000000
+            110.380638,-7.796520,0.000000
+            110.380699,-7.796891,0.000000
+            110.380638,-7.797379,0.000000
+            110.380577,-7.797804,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Mujamuju</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Umbulharjo Kelurahan: Mujamuju Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Umbulharjo<br>
+<b>Kelurahan:</b> Mujamuju<br>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Umbulharjo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347113</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Mujamuju</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1002</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.395065,-7.787876,0.000000
+            110.395103,-7.788445,0.000000
+            110.395164,-7.788880,0.000000
+            110.395309,-7.789296,0.000000
+            110.395470,-7.789739,0.000000
+            110.395470,-7.790065,0.000000
+            110.395500,-7.790409,0.000000
+            110.395477,-7.790870,0.000000
+            110.395393,-7.791259,0.000000
+            110.395256,-7.791648,0.000000
+            110.395027,-7.792199,0.000000
+            110.388451,-7.792769,0.000000
+            110.387039,-7.797651,0.000000
+            110.387970,-7.797924,0.000000
+            110.387383,-7.799696,0.000000
+            110.387917,-7.799760,0.000000
+            110.387726,-7.801080,0.000000
+            110.388306,-7.801135,0.000000
+            110.388306,-7.801524,0.000000
+            110.390877,-7.801564,0.000000
+            110.390572,-7.804756,0.000000
+            110.390953,-7.804829,0.000000
+            110.391380,-7.804803,0.000000
+            110.391754,-7.804650,0.000000
+            110.392075,-7.804759,0.000000
+            110.392326,-7.805085,0.000000
+            110.392235,-7.805491,0.000000
+            110.392136,-7.805799,0.000000
+            110.392426,-7.806161,0.000000
+            110.392769,-7.806306,0.000000
+            110.393013,-7.806587,0.000000
+            110.393349,-7.806805,0.000000
+            110.393730,-7.806914,0.000000
+            110.394173,-7.807059,0.000000
+            110.394516,-7.807286,0.000000
+            110.394485,-7.807638,0.000000
+            110.394371,-7.808090,0.000000
+            110.394600,-7.808371,0.000000
+            110.394981,-7.808679,0.000000
+            110.396141,-7.807966,0.000000
+            110.396477,-7.807451,0.000000
+            110.396606,-7.806936,0.000000
+            110.396729,-7.806475,0.000000
+            110.396889,-7.806077,0.000000
+            110.397011,-7.805607,0.000000
+            110.396919,-7.805127,0.000000
+            110.396767,-7.804630,0.000000
+            110.396797,-7.804223,0.000000
+            110.396996,-7.803762,0.000000
+            110.397186,-7.803454,0.000000
+            110.397423,-7.803156,0.000000
+            110.397690,-7.802587,0.000000
+            110.397751,-7.802162,0.000000
+            110.397873,-7.801420,0.000000
+            110.398262,-7.801439,0.000000
+            110.398560,-7.800906,0.000000
+            110.398766,-7.800381,0.000000
+            110.398804,-7.800029,0.000000
+            110.398689,-7.799513,0.000000
+            110.398499,-7.799214,0.000000
+            110.398117,-7.798689,0.000000
+            110.397980,-7.798046,0.000000
+            110.397781,-7.797359,0.000000
+            110.397423,-7.796870,0.000000
+            110.397171,-7.796598,0.000000
+            110.397018,-7.796299,0.000000
+            110.396812,-7.795747,0.000000
+            110.396576,-7.795286,0.000000
+            110.396523,-7.794725,0.000000
+            110.396469,-7.794390,0.000000
+            110.396111,-7.793946,0.000000
+            110.396126,-7.793331,0.000000
+            110.396004,-7.792707,0.000000
+            110.395973,-7.792255,0.000000
+            110.396042,-7.791884,0.000000
+            110.396095,-7.791540,0.000000
+            110.396286,-7.791260,0.000000
+            110.396202,-7.790925,0.000000
+            110.396011,-7.790509,0.000000
+            110.396202,-7.790093,0.000000
+            110.396606,-7.790021,0.000000
+            110.397293,-7.789832,0.000000
+            110.397522,-7.789344,0.000000
+            110.397461,-7.788856,0.000000
+            110.397346,-7.788458,0.000000
+            110.397156,-7.787680,0.000000
+            110.395065,-7.787876,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Tahunan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Umbulharjo Kelurahan: Tahunan Jenis Museum:  S</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Umbulharjo<br>
+<b>Kelurahan:</b> Tahunan<br>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Umbulharjo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347113</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Tahunan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1003</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.380302,-7.801322,0.000000
+            110.380196,-7.802697,0.000000
+            110.380554,-7.802951,0.000000
+            110.381004,-7.803160,0.000000
+            110.381340,-7.804698,0.000000
+            110.380127,-7.804705,0.000000
+            110.379738,-7.805211,0.000000
+            110.379654,-7.805537,0.000000
+            110.379654,-7.805998,0.000000
+            110.379562,-7.807445,0.000000
+            110.379601,-7.807816,0.000000
+            110.379341,-7.808620,0.000000
+            110.379539,-7.809028,0.000000
+            110.379707,-7.809354,0.000000
+            110.380173,-7.809472,0.000000
+            110.379906,-7.810647,0.000000
+            110.380264,-7.810711,0.000000
+            110.381065,-7.810649,0.000000
+            110.381546,-7.810623,0.000000
+            110.381950,-7.810551,0.000000
+            110.382431,-7.810353,0.000000
+            110.382660,-7.810027,0.000000
+            110.386971,-7.811083,0.000000
+            110.387131,-7.810513,0.000000
+            110.386856,-7.810115,0.000000
+            110.386841,-7.809762,0.000000
+            110.386871,-7.808704,0.000000
+            110.386780,-7.808306,0.000000
+            110.387253,-7.805340,0.000000
+            110.387093,-7.804525,0.000000
+            110.387329,-7.801468,0.000000
+            110.380760,-7.801305,0.000000
+            110.380302,-7.801322,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Warungboto</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Umbulharjo Kelurahan: Warungboto Jenis Museum:</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Umbulharjo<br>
+<b>Kelurahan:</b> Warungboto<br>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Umbulharjo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347113</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Warungboto</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1004</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.387329,-7.801468,0.000000
+            110.387093,-7.804525,0.000000
+            110.387253,-7.805340,0.000000
+            110.386780,-7.808306,0.000000
+            110.386871,-7.808704,0.000000
+            110.386841,-7.809762,0.000000
+            110.386856,-7.810115,0.000000
+            110.387131,-7.810513,0.000000
+            110.386971,-7.811083,0.000000
+            110.389275,-7.811656,0.000000
+            110.388916,-7.814794,0.000000
+            110.393364,-7.813417,0.000000
+            110.393501,-7.812693,0.000000
+            110.393745,-7.812332,0.000000
+            110.394043,-7.812079,0.000000
+            110.394348,-7.811799,0.000000
+            110.394501,-7.811392,0.000000
+            110.394402,-7.810904,0.000000
+            110.394386,-7.810497,0.000000
+            110.394363,-7.810071,0.000000
+            110.394424,-7.809710,0.000000
+            110.394554,-7.809339,0.000000
+            110.394745,-7.808986,0.000000
+            110.394981,-7.808679,0.000000
+            110.394600,-7.808371,0.000000
+            110.394371,-7.808090,0.000000
+            110.394485,-7.807638,0.000000
+            110.394516,-7.807286,0.000000
+            110.394173,-7.807059,0.000000
+            110.393730,-7.806914,0.000000
+            110.393349,-7.806805,0.000000
+            110.393013,-7.806587,0.000000
+            110.392769,-7.806306,0.000000
+            110.392426,-7.806161,0.000000
+            110.392136,-7.805799,0.000000
+            110.392235,-7.805491,0.000000
+            110.392326,-7.805085,0.000000
+            110.392075,-7.804759,0.000000
+            110.391754,-7.804650,0.000000
+            110.391380,-7.804803,0.000000
+            110.390953,-7.804829,0.000000
+            110.390572,-7.804756,0.000000
+            110.390877,-7.801564,0.000000
+            110.388306,-7.801524,0.000000
+            110.387329,-7.801468,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Pandeyan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Umbulharjo Kelurahan: Pandeyan Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Umbulharjo<br>
+<b>Kelurahan:</b> Pandeyan<br>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Umbulharjo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347113</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Pandeyan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1005</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.381065,-7.810649,0.000000
+            110.380661,-7.811101,0.000000
+            110.380547,-7.811408,0.000000
+            110.380302,-7.811625,0.000000
+            110.380180,-7.811959,0.000000
+            110.380272,-7.812294,0.000000
+            110.380196,-7.812611,0.000000
+            110.379868,-7.812936,0.000000
+            110.379768,-7.813478,0.000000
+            110.379555,-7.813840,0.000000
+            110.379341,-7.815649,0.000000
+            110.383224,-7.816251,0.000000
+            110.382675,-7.818892,0.000000
+            110.385483,-7.819095,0.000000
+            110.385986,-7.819240,0.000000
+            110.386078,-7.819729,0.000000
+            110.386124,-7.820290,0.000000
+            110.388908,-7.820628,0.000000
+            110.389175,-7.820900,0.000000
+            110.390579,-7.821083,0.000000
+            110.390427,-7.822657,0.000000
+            110.391479,-7.823101,0.000000
+            110.391914,-7.823455,0.000000
+            110.392105,-7.825137,0.000000
+            110.393089,-7.825654,0.000000
+            110.393250,-7.825266,0.000000
+            110.393372,-7.824814,0.000000
+            110.394043,-7.823820,0.000000
+            110.394264,-7.823449,0.000000
+            110.394432,-7.823169,0.000000
+            110.394585,-7.822834,0.000000
+            110.394638,-7.822446,0.000000
+            110.394608,-7.821948,0.000000
+            110.394402,-7.820953,0.000000
+            110.394341,-7.820591,0.000000
+            110.394089,-7.820292,0.000000
+            110.393852,-7.820066,0.000000
+            110.393669,-7.819740,0.000000
+            110.394577,-7.818927,0.000000
+            110.394676,-7.818493,0.000000
+            110.394081,-7.817651,0.000000
+            110.393951,-7.817316,0.000000
+            110.393944,-7.816972,0.000000
+            110.393936,-7.816448,0.000000
+            110.393600,-7.816103,0.000000
+            110.392982,-7.815913,0.000000
+            110.392609,-7.815849,0.000000
+            110.392296,-7.815713,0.000000
+            110.392029,-7.815378,0.000000
+            110.392052,-7.815016,0.000000
+            110.392250,-7.814672,0.000000
+            110.392647,-7.814564,0.000000
+            110.393028,-7.814619,0.000000
+            110.393272,-7.813805,0.000000
+            110.393364,-7.813417,0.000000
+            110.388916,-7.814794,0.000000
+            110.389275,-7.811656,0.000000
+            110.386971,-7.811083,0.000000
+            110.382660,-7.810027,0.000000
+            110.382431,-7.810353,0.000000
+            110.381950,-7.810551,0.000000
+            110.381546,-7.810623,0.000000
+            110.381065,-7.810649,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Surosutan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Umbulharjo Kelurahan: Surosutan Jenis Museum: </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Umbulharjo<br>
+<b>Kelurahan:</b> Surosutan<br>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Umbulharjo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347113</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Surosutan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1006</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.376221,-7.815282,0.000000
+            110.375877,-7.817751,0.000000
+            110.375000,-7.818446,0.000000
+            110.375381,-7.818700,0.000000
+            110.375809,-7.818954,0.000000
+            110.376015,-7.819280,0.000000
+            110.376091,-7.819660,0.000000
+            110.376076,-7.820085,0.000000
+            110.375748,-7.821821,0.000000
+            110.375679,-7.822156,0.000000
+            110.375580,-7.822517,0.000000
+            110.375336,-7.823403,0.000000
+            110.375160,-7.824100,0.000000
+            110.375137,-7.824895,0.000000
+            110.375198,-7.825257,0.000000
+            110.375305,-7.825692,0.000000
+            110.375603,-7.826099,0.000000
+            110.375786,-7.826416,0.000000
+            110.375877,-7.826959,0.000000
+            110.375816,-7.827366,0.000000
+            110.375893,-7.828008,0.000000
+            110.375847,-7.828551,0.000000
+            110.375381,-7.828749,0.000000
+            110.374931,-7.829020,0.000000
+            110.374840,-7.829544,0.000000
+            110.374847,-7.829951,0.000000
+            110.375061,-7.830196,0.000000
+            110.375458,-7.830314,0.000000
+            110.375938,-7.830414,0.000000
+            110.376389,-7.830722,0.000000
+            110.376877,-7.830687,0.000000
+            110.376633,-7.830198,0.000000
+            110.376457,-7.829917,0.000000
+            110.376663,-7.829601,0.000000
+            110.377113,-7.829765,0.000000
+            110.377289,-7.830127,0.000000
+            110.377357,-7.830498,0.000000
+            110.377434,-7.830896,0.000000
+            110.377869,-7.831358,0.000000
+            110.378433,-7.831295,0.000000
+            110.378136,-7.830291,0.000000
+            110.380310,-7.829570,0.000000
+            110.379944,-7.828177,0.000000
+            110.380463,-7.828169,0.000000
+            110.380966,-7.828224,0.000000
+            110.381233,-7.828541,0.000000
+            110.382782,-7.828525,0.000000
+            110.384201,-7.828527,0.000000
+            110.384651,-7.828527,0.000000
+            110.384689,-7.829007,0.000000
+            110.384666,-7.829333,0.000000
+            110.384895,-7.829577,0.000000
+            110.385551,-7.829813,0.000000
+            110.386093,-7.829859,0.000000
+            110.386551,-7.830005,0.000000
+            110.386993,-7.829942,0.000000
+            110.386955,-7.829426,0.000000
+            110.387238,-7.828151,0.000000
+            110.387291,-7.827735,0.000000
+            110.387009,-7.827536,0.000000
+            110.386703,-7.827391,0.000000
+            110.386803,-7.826179,0.000000
+            110.386505,-7.825898,0.000000
+            110.386070,-7.825780,0.000000
+            110.385727,-7.825535,0.000000
+            110.385841,-7.824504,0.000000
+            110.386032,-7.824134,0.000000
+            110.386208,-7.823781,0.000000
+            110.386223,-7.823229,0.000000
+            110.386169,-7.822849,0.000000
+            110.386246,-7.822370,0.000000
+            110.386185,-7.822053,0.000000
+            110.386185,-7.821411,0.000000
+            110.386238,-7.821095,0.000000
+            110.386192,-7.820733,0.000000
+            110.386124,-7.820290,0.000000
+            110.386078,-7.819729,0.000000
+            110.385986,-7.819240,0.000000
+            110.385483,-7.819095,0.000000
+            110.382675,-7.818892,0.000000
+            110.383224,-7.816251,0.000000
+            110.379341,-7.815649,0.000000
+            110.379555,-7.813840,0.000000
+            110.379204,-7.813749,0.000000
+            110.378891,-7.813613,0.000000
+            110.378571,-7.813594,0.000000
+            110.378242,-7.813512,0.000000
+            110.377907,-7.813494,0.000000
+            110.377525,-7.814470,0.000000
+            110.376282,-7.814830,0.000000
+            110.376221,-7.815282,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Giwangan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Umbulharjo Kelurahan: Giwangan Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Umbulharjo<br>
+<b>Kelurahan:</b> Giwangan<br>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Umbulharjo</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347113</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Giwangan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1007</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.386124,-7.820290,0.000000
+            110.386192,-7.820733,0.000000
+            110.386238,-7.821095,0.000000
+            110.386185,-7.821411,0.000000
+            110.386185,-7.822053,0.000000
+            110.386246,-7.822370,0.000000
+            110.386169,-7.822849,0.000000
+            110.386223,-7.823229,0.000000
+            110.386208,-7.823781,0.000000
+            110.386032,-7.824134,0.000000
+            110.385841,-7.824504,0.000000
+            110.385727,-7.825535,0.000000
+            110.386070,-7.825780,0.000000
+            110.386505,-7.825898,0.000000
+            110.386803,-7.826179,0.000000
+            110.386703,-7.827391,0.000000
+            110.387009,-7.827536,0.000000
+            110.387291,-7.827735,0.000000
+            110.387238,-7.828151,0.000000
+            110.386955,-7.829426,0.000000
+            110.386993,-7.829942,0.000000
+            110.386551,-7.830005,0.000000
+            110.386604,-7.830665,0.000000
+            110.386436,-7.831099,0.000000
+            110.386002,-7.831297,0.000000
+            110.386246,-7.831614,0.000000
+            110.386459,-7.832311,0.000000
+            110.386208,-7.833207,0.000000
+            110.383865,-7.834333,0.000000
+            110.384460,-7.834922,0.000000
+            110.385826,-7.834206,0.000000
+            110.387810,-7.834203,0.000000
+            110.388176,-7.834331,0.000000
+            110.388214,-7.835326,0.000000
+            110.388229,-7.835814,0.000000
+            110.388046,-7.836375,0.000000
+            110.387871,-7.836772,0.000000
+            110.387939,-7.837550,0.000000
+            110.387833,-7.838283,0.000000
+            110.387672,-7.838771,0.000000
+            110.387619,-7.839115,0.000000
+            110.387856,-7.839495,0.000000
+            110.389671,-7.839552,0.000000
+            110.390648,-7.835401,0.000000
+            110.391556,-7.835547,0.000000
+            110.391663,-7.835946,0.000000
+            110.392097,-7.836254,0.000000
+            110.394501,-7.836293,0.000000
+            110.394539,-7.835796,0.000000
+            110.394691,-7.835353,0.000000
+            110.394852,-7.834946,0.000000
+            110.394928,-7.834331,0.000000
+            110.394882,-7.833843,0.000000
+            110.395020,-7.833029,0.000000
+            110.395416,-7.832713,0.000000
+            110.395569,-7.832261,0.000000
+            110.395401,-7.831609,0.000000
+            110.394867,-7.831057,0.000000
+            110.394615,-7.830776,0.000000
+            110.394356,-7.830486,0.000000
+            110.394020,-7.830133,0.000000
+            110.393784,-7.829816,0.000000
+            110.393440,-7.829354,0.000000
+            110.393135,-7.828630,0.000000
+            110.393181,-7.828278,0.000000
+            110.393356,-7.827871,0.000000
+            110.393585,-7.827283,0.000000
+            110.392403,-7.827544,0.000000
+            110.390450,-7.826510,0.000000
+            110.390495,-7.826076,0.000000
+            110.390724,-7.825796,0.000000
+            110.390900,-7.825353,0.000000
+            110.390259,-7.824746,0.000000
+            110.390427,-7.822657,0.000000
+            110.390579,-7.821083,0.000000
+            110.389175,-7.820900,0.000000
+            110.388908,-7.820628,0.000000
+            110.386124,-7.820290,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Kadipaten</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Kraton Kelurahan: Kadipaten Jenis Museum:  Sta</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Kraton<br>
+<b>Kelurahan:</b> Kadipaten<br>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Kraton</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347109</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Kadipaten</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1101</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.360718,-7.804179,0.000000
+            110.356461,-7.803910,0.000000
+            110.356636,-7.804308,0.000000
+            110.356483,-7.808143,0.000000
+            110.356392,-7.810784,0.000000
+            110.357857,-7.810913,0.000000
+            110.357925,-7.809321,0.000000
+            110.358437,-7.808137,0.000000
+            110.358864,-7.807857,0.000000
+            110.358963,-7.807260,0.000000
+            110.361916,-7.807735,0.000000
+            110.362061,-7.806885,0.000000
+            110.362869,-7.806932,0.000000
+            110.362938,-7.806588,0.000000
+            110.363472,-7.806308,0.000000
+            110.363808,-7.806083,0.000000
+            110.364166,-7.806002,0.000000
+            110.364220,-7.805251,0.000000
+            110.364899,-7.805288,0.000000
+            110.364975,-7.804683,0.000000
+            110.363312,-7.804752,0.000000
+            110.362511,-7.804435,0.000000
+            110.360718,-7.804179,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Patehan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Kraton Kelurahan: Patehan Jenis Museum:  Statu</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Kraton<br>
+<b>Kelurahan:</b> Patehan<br>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Kraton</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347109</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Patehan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1102</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.356392,-7.810784,0.000000
+            110.356270,-7.812466,0.000000
+            110.363068,-7.813372,0.000000
+            110.363297,-7.812188,0.000000
+            110.363945,-7.812243,0.000000
+            110.364182,-7.810859,0.000000
+            110.363823,-7.810687,0.000000
+            110.363861,-7.809086,0.000000
+            110.363876,-7.808715,0.000000
+            110.363594,-7.808461,0.000000
+            110.363586,-7.808081,0.000000
+            110.361916,-7.807735,0.000000
+            110.358963,-7.807260,0.000000
+            110.358864,-7.807857,0.000000
+            110.358437,-7.808137,0.000000
+            110.357925,-7.809321,0.000000
+            110.357857,-7.810913,0.000000
+            110.356392,-7.810784,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Panembahan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Kraton Kelurahan: Panembahan Jenis Museum:  St</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Kraton<br>
+<b>Kelurahan:</b> Panembahan<br>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Kraton</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347109</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Panembahan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1103</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.364975,-7.804683,0.000000
+            110.364899,-7.805288,0.000000
+            110.364220,-7.805251,0.000000
+            110.364166,-7.806002,0.000000
+            110.363808,-7.806083,0.000000
+            110.363472,-7.806308,0.000000
+            110.362938,-7.806588,0.000000
+            110.362869,-7.806932,0.000000
+            110.362061,-7.806885,0.000000
+            110.361916,-7.807735,0.000000
+            110.363586,-7.808081,0.000000
+            110.363594,-7.808461,0.000000
+            110.363876,-7.808715,0.000000
+            110.363861,-7.809086,0.000000
+            110.363823,-7.810687,0.000000
+            110.364182,-7.810859,0.000000
+            110.363945,-7.812243,0.000000
+            110.363297,-7.812188,0.000000
+            110.363068,-7.813372,0.000000
+            110.364143,-7.813546,0.000000
+            110.366035,-7.813793,0.000000
+            110.368484,-7.814040,0.000000
+            110.368996,-7.807710,0.000000
+            110.369301,-7.803558,0.000000
+            110.366028,-7.802839,0.000000
+            110.365997,-7.803599,0.000000
+            110.365654,-7.804729,0.000000
+            110.365295,-7.804737,0.000000
+            110.364975,-7.804683,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Wirogunan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Mergansan Kelurahan: Wirogunan Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Mergansan<br>
+<b>Kelurahan:</b> Wirogunan<br>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Mergansan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347112</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Wirogunan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1201</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.371445,-7.800948,0.000000
+            110.371536,-7.801391,0.000000
+            110.371666,-7.801898,0.000000
+            110.371788,-7.802395,0.000000
+            110.372086,-7.803309,0.000000
+            110.372375,-7.803735,0.000000
+            110.372711,-7.803907,0.000000
+            110.373100,-7.804043,0.000000
+            110.373550,-7.804116,0.000000
+            110.373901,-7.804207,0.000000
+            110.374092,-7.804741,0.000000
+            110.374130,-7.805094,0.000000
+            110.374168,-7.805510,0.000000
+            110.374084,-7.805881,0.000000
+            110.374008,-7.806297,0.000000
+            110.373917,-7.806831,0.000000
+            110.373817,-7.807283,0.000000
+            110.374352,-7.807401,0.000000
+            110.374809,-7.810224,0.000000
+            110.375099,-7.811635,0.000000
+            110.375137,-7.811961,0.000000
+            110.375114,-7.814050,0.000000
+            110.374817,-7.815063,0.000000
+            110.376221,-7.815282,0.000000
+            110.376282,-7.814830,0.000000
+            110.377525,-7.814470,0.000000
+            110.377907,-7.813494,0.000000
+            110.378242,-7.813512,0.000000
+            110.378571,-7.813594,0.000000
+            110.378891,-7.813613,0.000000
+            110.379204,-7.813749,0.000000
+            110.379555,-7.813840,0.000000
+            110.379768,-7.813478,0.000000
+            110.379868,-7.812936,0.000000
+            110.380196,-7.812611,0.000000
+            110.380272,-7.812294,0.000000
+            110.380180,-7.811959,0.000000
+            110.380302,-7.811625,0.000000
+            110.380547,-7.811408,0.000000
+            110.380661,-7.811101,0.000000
+            110.381065,-7.810649,0.000000
+            110.380264,-7.810711,0.000000
+            110.379906,-7.810647,0.000000
+            110.380173,-7.809472,0.000000
+            110.379707,-7.809354,0.000000
+            110.379539,-7.809028,0.000000
+            110.379341,-7.808620,0.000000
+            110.379601,-7.807816,0.000000
+            110.379562,-7.807445,0.000000
+            110.379654,-7.805998,0.000000
+            110.379654,-7.805537,0.000000
+            110.379738,-7.805211,0.000000
+            110.380127,-7.804705,0.000000
+            110.381340,-7.804698,0.000000
+            110.381004,-7.803160,0.000000
+            110.380554,-7.802951,0.000000
+            110.380196,-7.802697,0.000000
+            110.380302,-7.801322,0.000000
+            110.378967,-7.801221,0.000000
+            110.378235,-7.804123,0.000000
+            110.375595,-7.803857,0.000000
+            110.375237,-7.801243,0.000000
+            110.373215,-7.801176,0.000000
+            110.371445,-7.800948,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Keparakan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Mergansan Kelurahan: Keparakan Jenis Museum:  </Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Mergansan<br>
+<b>Kelurahan:</b> Keparakan<br>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Mergansan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347112</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Keparakan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1202</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.368996,-7.807710,0.000000
+            110.368484,-7.814040,0.000000
+            110.374817,-7.815063,0.000000
+            110.375114,-7.814050,0.000000
+            110.375137,-7.811961,0.000000
+            110.375099,-7.811635,0.000000
+            110.374809,-7.810224,0.000000
+            110.374352,-7.807401,0.000000
+            110.373817,-7.807283,0.000000
+            110.368996,-7.807710,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Brontokusuman</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Mergansan Kelurahan: Brontokusuman Jenis Museu</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Mergansan<br>
+<b>Kelurahan:</b> Brontokusuman<br>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Mergansan</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347112</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Brontokusuman</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1203</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.368484,-7.814040,0.000000
+            110.367889,-7.822316,0.000000
+            110.367691,-7.825083,0.000000
+            110.367592,-7.826449,0.000000
+            110.368553,-7.826360,0.000000
+            110.368713,-7.825836,0.000000
+            110.368874,-7.825284,0.000000
+            110.369118,-7.824841,0.000000
+            110.369415,-7.824362,0.000000
+            110.369736,-7.824128,0.000000
+            110.370247,-7.824219,0.000000
+            110.371353,-7.824618,0.000000
+            110.371559,-7.824917,0.000000
+            110.371811,-7.825153,0.000000
+            110.371941,-7.825822,0.000000
+            110.372299,-7.825732,0.000000
+            110.372322,-7.825398,0.000000
+            110.372337,-7.825027,0.000000
+            110.372482,-7.824448,0.000000
+            110.373756,-7.824242,0.000000
+            110.374046,-7.823980,0.000000
+            110.375160,-7.824100,0.000000
+            110.375336,-7.823403,0.000000
+            110.375580,-7.822517,0.000000
+            110.375679,-7.822156,0.000000
+            110.375748,-7.821821,0.000000
+            110.376076,-7.820085,0.000000
+            110.376091,-7.819660,0.000000
+            110.376015,-7.819280,0.000000
+            110.375809,-7.818954,0.000000
+            110.375381,-7.818700,0.000000
+            110.375000,-7.818446,0.000000
+            110.375877,-7.817751,0.000000
+            110.376221,-7.815282,0.000000
+            110.374817,-7.815063,0.000000
+            110.368484,-7.814040,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Gedongkiwo</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Mantrijeron Kelurahan: Gedongkiwo Jenis Museum</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Mantrijeron<br>
+<b>Kelurahan:</b> Gedongkiwo<br>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Mantrijeron</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347108</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Gedongkiwo</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1301</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.353806,-7.807768,0.000000
+            110.353455,-7.808374,0.000000
+            110.352409,-7.809349,0.000000
+            110.352180,-7.809620,0.000000
+            110.352051,-7.809936,0.000000
+            110.352127,-7.810443,0.000000
+            110.352371,-7.810959,0.000000
+            110.352486,-7.811393,0.000000
+            110.352432,-7.811836,0.000000
+            110.352226,-7.812225,0.000000
+            110.351959,-7.812641,0.000000
+            110.351761,-7.813029,0.000000
+            110.351517,-7.813400,0.000000
+            110.351349,-7.813825,0.000000
+            110.351746,-7.814069,0.000000
+            110.352234,-7.814414,0.000000
+            110.352318,-7.814857,0.000000
+            110.352478,-7.815355,0.000000
+            110.352577,-7.816006,0.000000
+            110.352470,-7.816323,0.000000
+            110.352058,-7.816756,0.000000
+            110.351685,-7.816873,0.000000
+            110.351479,-7.817325,0.000000
+            110.351440,-7.817696,0.000000
+            110.351509,-7.818293,0.000000
+            110.351486,-7.818908,0.000000
+            110.351349,-7.819279,0.000000
+            110.351128,-7.819749,0.000000
+            110.351006,-7.820246,0.000000
+            110.351044,-7.821105,0.000000
+            110.351425,-7.821658,0.000000
+            110.351707,-7.821993,0.000000
+            110.352028,-7.822274,0.000000
+            110.352295,-7.822491,0.000000
+            110.352577,-7.822736,0.000000
+            110.352837,-7.823207,0.000000
+            110.352470,-7.823414,0.000000
+            110.351929,-7.823621,0.000000
+            110.356049,-7.824912,0.000000
+            110.355980,-7.823447,0.000000
+            110.356033,-7.823112,0.000000
+            110.356194,-7.821439,0.000000
+            110.356339,-7.821023,0.000000
+            110.356407,-7.820607,0.000000
+            110.356438,-7.819811,0.000000
+            110.356506,-7.819341,0.000000
+            110.356674,-7.818961,0.000000
+            110.356995,-7.818428,0.000000
+            110.357002,-7.817777,0.000000
+            110.356094,-7.817748,0.000000
+            110.356270,-7.812466,0.000000
+            110.356392,-7.810784,0.000000
+            110.356483,-7.808143,0.000000
+            110.353806,-7.807768,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Suryodiningratan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Matrijeron Kelurahan: Suryodiningratan Jenis M</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Matrijeron<br>
+<b>Kelurahan:</b> Suryodiningratan<br>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Matrijeron</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347108</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Suryodiningratan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1302</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.356583,-7.825085,0.000000
+            110.359085,-7.825785,0.000000
+            110.359383,-7.825487,0.000000
+            110.359604,-7.824149,0.000000
+            110.360497,-7.824258,0.000000
+            110.360664,-7.823716,0.000000
+            110.361237,-7.823789,0.000000
+            110.363068,-7.813372,0.000000
+            110.356270,-7.812466,0.000000
+            110.356094,-7.817748,0.000000
+            110.357002,-7.817777,0.000000
+            110.356995,-7.818428,0.000000
+            110.356674,-7.818961,0.000000
+            110.356506,-7.819341,0.000000
+            110.356438,-7.819811,0.000000
+            110.356407,-7.820607,0.000000
+            110.356339,-7.821023,0.000000
+            110.356194,-7.821439,0.000000
+            110.356033,-7.823112,0.000000
+            110.355980,-7.823447,0.000000
+            110.356049,-7.824912,0.000000
+            110.356583,-7.825085,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Mantrijeron</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Mantrijeron Kelurahan: Mantrijeron Jenis Museu</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Mantrijeron<br>
+<b>Kelurahan:</b> Mantrijeron<br>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Mantrijeron</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347108</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Mantrijeron</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1303</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.363068,-7.813372,0.000000
+            110.361237,-7.823789,0.000000
+            110.360992,-7.825426,0.000000
+            110.364738,-7.825386,0.000000
+            110.367691,-7.825083,0.000000
+            110.367889,-7.822316,0.000000
+            110.368484,-7.814040,0.000000
+            110.366035,-7.813793,0.000000
+            110.364143,-7.813546,0.000000
+            110.363068,-7.813372,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Rejowinangun</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Kotagede Kelurahan: Rejowinangun Jenis Museum:</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Kotagede<br>
+<b>Kelurahan:</b> Rejowinangun<br>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Kotagede</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347114</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Rejowinangun</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1401</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.397873,-7.801420,0.000000
+            110.397751,-7.802162,0.000000
+            110.397690,-7.802587,0.000000
+            110.397423,-7.803156,0.000000
+            110.397186,-7.803454,0.000000
+            110.396996,-7.803762,0.000000
+            110.396797,-7.804223,0.000000
+            110.396767,-7.804630,0.000000
+            110.396919,-7.805127,0.000000
+            110.397011,-7.805607,0.000000
+            110.396889,-7.806077,0.000000
+            110.396729,-7.806475,0.000000
+            110.396606,-7.806936,0.000000
+            110.396477,-7.807451,0.000000
+            110.396141,-7.807966,0.000000
+            110.394981,-7.808679,0.000000
+            110.394745,-7.808986,0.000000
+            110.394554,-7.809339,0.000000
+            110.394424,-7.809710,0.000000
+            110.394363,-7.810071,0.000000
+            110.394386,-7.810497,0.000000
+            110.394402,-7.810904,0.000000
+            110.394501,-7.811392,0.000000
+            110.394348,-7.811799,0.000000
+            110.394043,-7.812079,0.000000
+            110.393745,-7.812332,0.000000
+            110.393501,-7.812693,0.000000
+            110.393364,-7.813417,0.000000
+            110.394470,-7.813075,0.000000
+            110.394348,-7.813617,0.000000
+            110.394371,-7.813961,0.000000
+            110.395271,-7.814161,0.000000
+            110.395638,-7.814243,0.000000
+            110.396179,-7.814253,0.000000
+            110.396500,-7.814262,0.000000
+            110.396858,-7.814272,0.000000
+            110.397118,-7.815584,0.000000
+            110.398384,-7.815730,0.000000
+            110.397903,-7.818805,0.000000
+            110.401375,-7.819760,0.000000
+            110.401741,-7.818539,0.000000
+            110.401772,-7.818214,0.000000
+            110.402229,-7.816631,0.000000
+            110.402184,-7.809947,0.000000
+            110.402359,-7.806745,0.000000
+            110.402496,-7.801689,0.000000
+            110.398262,-7.801439,0.000000
+            110.397873,-7.801420,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Prenggan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Kotagede Kelurahan: Prenggan Jenis Museum:  St</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Kotagede<br>
+<b>Kelurahan:</b> Prenggan<br>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Kotagede</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347114</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Prenggan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1402</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.393364,-7.813417,0.000000
+            110.393272,-7.813805,0.000000
+            110.393028,-7.814619,0.000000
+            110.392647,-7.814564,0.000000
+            110.392250,-7.814672,0.000000
+            110.392052,-7.815016,0.000000
+            110.392029,-7.815378,0.000000
+            110.392296,-7.815713,0.000000
+            110.392609,-7.815849,0.000000
+            110.392982,-7.815913,0.000000
+            110.393600,-7.816103,0.000000
+            110.393936,-7.816448,0.000000
+            110.393944,-7.816972,0.000000
+            110.393951,-7.817316,0.000000
+            110.394081,-7.817651,0.000000
+            110.394676,-7.818493,0.000000
+            110.394577,-7.818927,0.000000
+            110.393669,-7.819740,0.000000
+            110.393852,-7.820066,0.000000
+            110.394089,-7.820292,0.000000
+            110.394341,-7.820591,0.000000
+            110.394402,-7.820953,0.000000
+            110.394608,-7.821948,0.000000
+            110.394638,-7.822446,0.000000
+            110.394585,-7.822834,0.000000
+            110.394432,-7.823169,0.000000
+            110.394264,-7.823449,0.000000
+            110.394043,-7.823820,0.000000
+            110.393372,-7.824814,0.000000
+            110.393250,-7.825266,0.000000
+            110.393089,-7.825654,0.000000
+            110.392105,-7.825137,0.000000
+            110.391914,-7.823455,0.000000
+            110.391479,-7.823101,0.000000
+            110.390427,-7.822657,0.000000
+            110.390259,-7.824746,0.000000
+            110.390900,-7.825353,0.000000
+            110.390724,-7.825796,0.000000
+            110.390495,-7.826076,0.000000
+            110.390450,-7.826510,0.000000
+            110.392403,-7.827544,0.000000
+            110.393585,-7.827283,0.000000
+            110.393639,-7.826849,0.000000
+            110.393929,-7.826542,0.000000
+            110.394318,-7.826624,0.000000
+            110.394859,-7.826751,0.000000
+            110.395531,-7.826852,0.000000
+            110.396011,-7.826871,0.000000
+            110.396637,-7.826871,0.000000
+            110.397217,-7.826899,0.000000
+            110.397568,-7.826891,0.000000
+            110.398285,-7.826964,0.000000
+            110.399246,-7.827165,0.000000
+            110.399521,-7.827373,0.000000
+            110.399864,-7.827337,0.000000
+            110.400284,-7.827275,0.000000
+            110.400566,-7.827094,0.000000
+            110.400612,-7.823757,0.000000
+            110.400696,-7.823033,0.000000
+            110.401375,-7.819760,0.000000
+            110.397903,-7.818805,0.000000
+            110.398384,-7.815730,0.000000
+            110.397118,-7.815584,0.000000
+            110.396858,-7.814272,0.000000
+            110.396500,-7.814262,0.000000
+            110.396179,-7.814253,0.000000
+            110.395638,-7.814243,0.000000
+            110.395271,-7.814161,0.000000
+            110.394371,-7.813961,0.000000
+            110.394348,-7.813617,0.000000
+            110.394470,-7.813075,0.000000
+            110.393364,-7.813417,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Purbayan</name>
+    <Snippet> name: Kota Yogyakarta Kecamatan: Kotagede Kelurahan: Purbayan Jenis Museum:  St</Snippet>
+    <description><![CDATA[
+<b>name:</b> Kota Yogyakarta<br>
+<b>Kecamatan:</b> Kotagede<br>
+<b>Kelurahan:</b> Purbayan<br>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <ExtendedData>
+      <Data name="name">
+        <value>2</value>
+      </Data>
+      <Data name="Kecamatan_id">
+        <value>Kotagede</value>
+      </Data>
+      <Data name="Kelurahan">
+        <value>347114</value>
+      </Data>
+      <Data name="Kelurahan_id">
+        <value>Purbayan</value>
+      </Data>
+      <Data name="Jenis Museum">
+        <value>1403</value>
+      </Data>
+      <Data name="Jenis Museum_id">
+        <value></value>
+      </Data>
+      <Data name="Status Museum">
+        <value></value>
+      </Data>
+      <Data name="Status_id">
+        <value></value>
+      </Data>
+      <Data name="Desc_id">
+        <value></value>
+      </Data>
+      <Data name="Pic 1">
+        <value></value>
+      </Data>
+      <Data name="Pic2">
+        <value></value>
+      </Data>
+      <Data name="URL web">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            110.401375,-7.819760,0.000000
+            110.400696,-7.823033,0.000000
+            110.400612,-7.823757,0.000000
+            110.400566,-7.827094,0.000000
+            110.400284,-7.827275,0.000000
+            110.399864,-7.827337,0.000000
+            110.399521,-7.827373,0.000000
+            110.399506,-7.828278,0.000000
+            110.399345,-7.828648,0.000000
+            110.399162,-7.829182,0.000000
+            110.398689,-7.829642,0.000000
+            110.398254,-7.829741,0.000000
+            110.397903,-7.829894,0.000000
+            110.397751,-7.830374,0.000000
+            110.397171,-7.830599,0.000000
+            110.397079,-7.830915,0.000000
+            110.396904,-7.831485,0.000000
+            110.397041,-7.831874,0.000000
+            110.397438,-7.832065,0.000000
+            110.397781,-7.832336,0.000000
+            110.397629,-7.832662,0.000000
+            110.400116,-7.832991,0.000000
+            110.400253,-7.832548,0.000000
+            110.400513,-7.832150,0.000000
+            110.400627,-7.831825,0.000000
+            110.400581,-7.831336,0.000000
+            110.400719,-7.830893,0.000000
+            110.401108,-7.830876,0.000000
+            110.401489,-7.830949,0.000000
+            110.401894,-7.831121,0.000000
+            110.401825,-7.831637,0.000000
+            110.401787,-7.831971,0.000000
+            110.401924,-7.832397,0.000000
+            110.402390,-7.832216,0.000000
+            110.402802,-7.832253,0.000000
+            110.403183,-7.832462,0.000000
+            110.403603,-7.832408,0.000000
+            110.403366,-7.832109,0.000000
+            110.403244,-7.831792,0.000000
+            110.403679,-7.831531,0.000000
+            110.403717,-7.831196,0.000000
+            110.404045,-7.830889,0.000000
+            110.404549,-7.830691,0.000000
+            110.404831,-7.830528,0.000000
+            110.405128,-7.829769,0.000000
+            110.405075,-7.829452,0.000000
+            110.405006,-7.828909,0.000000
+            110.404968,-7.828240,0.000000
+            110.405060,-7.827906,0.000000
+            110.405052,-7.827535,0.000000
+            110.405136,-7.826793,0.000000
+            110.405159,-7.826449,0.000000
+            110.405052,-7.825943,0.000000
+            110.405113,-7.825554,0.000000
+            110.405098,-7.824894,0.000000
+            110.405136,-7.824369,0.000000
+            110.405067,-7.823844,0.000000
+            110.404984,-7.823482,0.000000
+            110.405029,-7.822768,0.000000
+            110.404991,-7.822297,0.000000
+            110.405037,-7.821918,0.000000
+            110.404648,-7.821836,0.000000
+            110.404236,-7.821717,0.000000
+            110.403793,-7.821509,0.000000
+            110.403648,-7.821047,0.000000
+            110.403694,-7.820677,0.000000
+            110.403442,-7.820079,0.000000
+            110.403610,-7.819790,0.000000
+            110.403885,-7.819040,0.000000
+            110.403595,-7.818686,0.000000
+            110.401772,-7.818214,0.000000
+            110.401741,-7.818539,0.000000
+            110.401375,-7.819760,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>
